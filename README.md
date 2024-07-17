@@ -1,1 +1,1 @@
-This is a webpage create using Javascript, HTML and CSS
+This webpage is created by using Javascript, HTML and CSS
